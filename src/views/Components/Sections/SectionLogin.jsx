@@ -43,7 +43,7 @@ class SectionLogin extends React.Component {
     return (
       <div className={classes.section}>
         <div className={classes.container}>
-          <GridContainer justify="center">
+          {/* <GridContainer justify="center">
             <GridItem xs={12} sm={12} md={4}>
               <Card>
                 <form className={classes.form}>
@@ -146,7 +146,7 @@ class SectionLogin extends React.Component {
                 </form>
               </Card>
             </GridItem>
-          </GridContainer>
+          </GridContainer> */}
         </div>
       </div>
     );
